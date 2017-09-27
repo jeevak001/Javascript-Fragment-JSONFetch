@@ -1,0 +1,18 @@
+*{
+	box-sizing: border-box;
+}
+
+html{
+	text-align:center;
+}
+
+#senator-list{
+
+	color: #9E9E9E;
+	padding:10px;
+}
+
+.link{
+	display:inline-block;
+	color: blue;
+}
